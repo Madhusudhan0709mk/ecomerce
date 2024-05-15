@@ -1,0 +1,4 @@
+django
+pillow
+jazzmin
+# pip install django-jazzmin
